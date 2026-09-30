@@ -6,7 +6,7 @@ For now only KDBX v. 4.0 is supported
 
 version: 1.0
 Created: 24.09.26
-Last modified: 24.09.26
+Last modified: 29.09.26
 Creator: smokeB0x
 
 """
